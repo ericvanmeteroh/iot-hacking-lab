@@ -85,3 +85,15 @@ HIGH POTENTIAL (9V)                          LOW POTENTIAL (0V)
                         to be re-energized
 
 Voltage Drop is the voltage between two points.
+
+## Generating Voltage
+There is voltage generated between the negative and positive contacts of a battery but without a place to go there will be no flow, by adding a wire the circuit is complete.
+
+## Electric Current
+Current is the continuous flow of charge through a circuit, as long as the voltage source keeps pushing the current will continue in the same direction. Current is the net flow rate of charge carriers passing a given point per unit of time.
+
+## Polarity of a Voltage Drop
+Polarity is the direction that voltage attempts to push current, utilizing + and -.
+
+## Resistance
+What limits the amount of current through a circuit with a given amount of voltage supplied by the battery. When current moves against the opposition of resistance friction is generated, this friction is dissapates as heat energy, sometimes hot enough in a filament to produce light.
